@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # Aulas-javascript-Cod3r
 
 Curso focado em JS e as suas funcionalidades.
  Curso Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos! Esse que talvez seja o maior e mais completo curso de tecnologia do mercado. São quase 600 aulas divididas em 33 capítulos com mais de 85 horas. Além dos fundamentos e vários exercícios, são vários projetos com as principais tecnologias da atualidade com aplicação na vida real, te ensinando a ser um desenvolvedor Web desde o básico até ao nível profissional avançado. Neste curso você vai aprender os 3 principais frameworks do mercado: Angular, React e VUE.
+=======
+# aulas-javascript-cod3r
+Seja muito bem vindo ao Curso Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos! Esse que talvez seja o maior e mais completo curso de tecnologia do mercado. São quase 600 aulas divididas em 33 capítulos com mais de 85 horas. Além dos fundamentos e vários exercícios, são vários projetos com as principais tecnologias da atualidade com aplicação na vida real, te ensinando a ser um desenvolvedor Web desde o básico até ao nível profissional avançado. Neste curso você vai aprender os 3 principais frameworks do mercado: Angular, React e VUE.
+>>>>>>> 17521a03eb43ecc7100d60b99d0ffa728ced76be
 
 Tudo que você precisa aprender para construir aplicações modernas para Web você aprenderá aqui e com aplicações reais.
 
@@ -94,7 +99,11 @@ O que você aprenderá
     Projeto de aplicações reais
     Seja um desenvolvedor Fullstack dominando o frontend e o backend
     Conteúdo suficiente para você conseguir um emprego como desenvolvedor Web Fullstack
+<<<<<<< HEAD
     Aprendendo banco de dados relacional e não relacional NoSQL
+=======
+    Aprendenda banco de dados relacional e não relacional NoSQL
+>>>>>>> 17521a03eb43ecc7100d60b99d0ffa728ced76be
     Use MySQL, Postgres e MongoDB
     Desenvolva um sistema com autenticação de usuário
     Use Node JS e desenvolva usando Javascript no backend
